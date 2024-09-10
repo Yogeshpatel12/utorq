@@ -1868,7 +1868,7 @@ Main Banner CSS
   z-index: 1;
   background-position: center center;
   background-size: contain;
-  /* background-repeat: no-repeat; */  
+  background-repeat: repeat;  
 }
 .main-banner::before {
   content: "";
@@ -5271,7 +5271,7 @@ Back To Top CSS
   }
   .main-banner {
     height: 320px;
-    width: 100%;
+    width: auto;
     padding-top: 150px;
     padding-bottom: 100px;
   }

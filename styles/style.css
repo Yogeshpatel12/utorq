@@ -562,7 +562,7 @@ Main Banner CSS
   z-index: 1;
   background-position: center center;
   background-size: contain;
-  /* background-repeat: no-repeat; */  
+  background-repeat: repeat;  
 }
 .main-banner::before {
   content: "";

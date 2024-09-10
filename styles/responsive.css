@@ -39,7 +39,7 @@
   }
   .main-banner {
     height: 320px;
-    width: 100%;
+    width: auto;
     padding-top: 150px;
     padding-bottom: 100px;
   }
