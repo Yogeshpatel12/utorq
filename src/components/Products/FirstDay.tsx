@@ -71,7 +71,7 @@ const FirstDay: React.FC = () => {
               <div className="abcd">
                 <Image
                   src="/images/p30.png"
-                  title="Steven Lucy"
+                  title=""
                   alt="Author"
                   width={150}
                   height={150}
@@ -140,14 +140,14 @@ const FirstDay: React.FC = () => {
               </div>
 
               <div className="schedule-info">
-                <h3>3. FLANGE MOUNTED CLUTHES</h3>
+                <h3>3. LINER</h3>
 
                 <ul>
-                  <li>Type - UFC (Normally Off)</li>
+                  {/* <li>Type - UFC (Normally Off)</li> */}
                   <li>
                     <i className="icofont-wall-clock"></i> Torque : 15 - 500 Nm
                   </li>
-                  <li>DC voltage : 24/96/190</li>
+                  {/* <li>DC voltage : 24/96/190</li> */}
                 </ul>
               </div>
             </AccordionItemButton>
