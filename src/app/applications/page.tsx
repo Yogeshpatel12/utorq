@@ -13,7 +13,7 @@ export default function Page() {
         homePageUrl="/"
         homePageText="Home"
         activePageText="applications"
-        bgImg="/images/main-bg5.jpg"
+        bgImg="/images/p1.jpg"
         shortText="Short description here"
       />
 

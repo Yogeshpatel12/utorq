@@ -37,13 +37,13 @@ const ContactForm: React.FC = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/in/unique-dc-motor-brake-236860229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDq3oOrLvTEuHt6v3SxM6jA%3D%3D" target="_blank">
+                      <a href="Instagramhttps://www.instagram.com/uniquedcmotor?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
                         <i className="icofont-instagram"></i>
                         <span>Instagram</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/uniquedcmotor?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+                      <a href="https://www.linkedin.com/in/unique-dc-motor-brake-236860229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDq3oOrLvTEuHt6v3SxM6jA%3D%3D" target="_blank">
                         <i className="icofont-linkedin"></i>
                         <span>Linkedin</span>
                       </a>

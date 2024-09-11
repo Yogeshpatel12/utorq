@@ -17,11 +17,15 @@ export const menus = [
         link: "/products",
       },
       {
-        label: "ELECTROMAGNETIC CLUTCHES",
+        label: "FLANGE MOUNTED BRAKES",
         link: "/products",
       },
       {
-        label: "ELECTROMAGNETIC CLUTCH AND BRAKE COMBINATION",
+        label: "FLANGE MOUNTED CLUTHES",
+        link: "/products",
+      },
+      {
+        label: "CLUTH AND BRAKE COMBINATION",
         link: "/products",
       },
       {
@@ -29,15 +33,11 @@ export const menus = [
         link: "/products",
       },
       {
-        label: "TRANSFORMER AND RECTIFIER",
+        label: "TRANSFORMERS AND RECTIFIERS",
         link: "/products",
       },
       {
-        label: "CUSTOM PRODUCTS",
-        link: "/products",
-      },
-      {
-        label: "A.C BRAKES AND TORQUE MODULATORS",
+        label: "ELECTROHYDRAULIC THRUSTER BRAKE",
         link: "/products",
       },
     ],

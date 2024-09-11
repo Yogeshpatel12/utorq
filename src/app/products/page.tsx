@@ -14,7 +14,7 @@ export default function Product() {
         homePageUrl="/"
         homePageText="Home"
         activePageText="ElectroMagnatic Brakes"
-        bgImg="https://unitorq.in/img/slide-1.jpg"
+        bgImg="/images/p1.jpg"
       />
    <EventSchedules/>
    

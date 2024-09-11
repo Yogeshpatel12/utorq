@@ -13,7 +13,7 @@ export default function Page() {
         homePageText="Home"
         activePageText="About"
         shortText={""}
-        bgImg={"/images/work-details-2"}
+        bgImg={"/images/p1.jpg"}
       />
 
       <div className="ptb-120">

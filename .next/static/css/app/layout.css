@@ -5227,6 +5227,14 @@ Back To Top CSS
   margin-bottom: 10px;
   line-height: 1.8;
 }/*# sourceMappingURL=style.css.map */
+
+
+
+
+.abcd {
+  padding: 30px;
+}
+
 /*!*******************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/responsive.css ***!
   \*******************************************************************************************************************************************************************************************************************************************************************/
@@ -5507,7 +5515,7 @@ Back To Top CSS
     width: 100%;
   }
   .single-speakers .speakers-content h3 {
-    font-size: 18px;
+    font-size: 180px;
     margin-bottom: 0;
   }
   .single-speakers .speakers-content span {
@@ -6839,3 +6847,6 @@ Back To Top CSS
     margin-top: 10px;
   }
 }/*# sourceMappingURL=responsive.css.map */
+
+
+

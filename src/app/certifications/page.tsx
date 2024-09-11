@@ -13,7 +13,7 @@ export default function Page() {
         homePageUrl="/"
         homePageText="Home"
         activePageText="Certifications"
-        bgImg="/images/main-bg5.jpg"
+        bgImg="/images/p1.jpg"
       />
 
       <SpeakersTwo />

@@ -119,7 +119,7 @@ const Footer: React.FC = () => {
 
                 <div className="col">
                   <p className="copyright">
-                    &copy; {new Date().getFullYear()} <strong>UNIQUE DC MOTOR BRAKES.</strong><br></br> {" "}
+                    &copy; {new Date().getFullYear()} <strong>UNIQUE DC MOTOR BRAKES AND CLUTHES.</strong><br></br> {" "}
                     Made with Love by{" "}
                     <a href="#">
                       <strong>Yogesh Patel</strong>

@@ -10,9 +10,9 @@ const EventSchedules: React.FC = () => {
       <div className="schedule-area schedule-style-four bg-image ptb-120">
         <div className="container">
           <div className="section-title">
-            <span>Products</span>
+            <span className="text-dark fs-3">Our Products</span>
             <h2>
-              Information of ElectroMagnatic <br /> Brakes
+               <br /> DC Motor Brakes & Cluthes
             </h2>
           </div>
 
