@@ -70,9 +70,9 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p30.png"
+                  src="\images\p30.png"
                   title=""
-                  alt="Author"
+                  alt=""
                   width={150}
                   height={150}
                 />
@@ -131,7 +131,7 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p20.jpg"
+                  src="\images\p20.jpg"
                   title="Steven Lucy"
                   alt="Author"
                   width={150}
@@ -196,7 +196,7 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p40.png"
+                  src="\images\p40.png"
                   title="Steven Lucy"
                   alt="Author"
                   width={150}
@@ -247,15 +247,15 @@ const FirstDay: React.FC = () => {
               minimal maintenance to keep systems running smoothly.
             </p>
 
-            <div className="row h-100 align-items-center">
+            {/* <div className="row h-100 align-items-center">
               <div className="col-lg-6 col-md-7"></div>
 
-              {/* <div className="col-lg-6 col-md-5 text-right">
+              <div className="col-lg-6 col-md-5 text-right">
                 <Link href="#" className="btn btn-primary">
                   View Details
                 </Link>
-              </div> */}
-            </div>
+              </div>
+            </div> */}
           </AccordionItemPanel>
         </AccordionItem>
 
@@ -264,7 +264,7 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p70.png"
+                  src="\images\p70.png"
                   title="Steven Lucy"
                   alt="Author"
                   width={150}
@@ -333,9 +333,9 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p60.png"
+                  src="\images\p60.png"
                   title=""
-                  alt="Author"
+                  alt=""
                   width={150}
                   height={150}
                 />
@@ -390,7 +390,7 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="/images/p80.png"
+                  src="\images\p80.png"
                   title=""
                   alt="Author"
                   width={150}
